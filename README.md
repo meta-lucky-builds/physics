@@ -1,7 +1,8 @@
 # Physics from first principles
 
-171 questions about how the world works, each answered with a proof, a derivation or
-code that tests the claim. Where no proof is possible, the answer says so.
+I asked all of these questions: 171 questions about how the world works, each answered
+with a proof, a derivation or code that tests the claim. Where no proof is possible,
+the answer says so.
 
 The original wording of every question is in [QUESTIONS.md](QUESTIONS.md).
 
@@ -43,3 +44,7 @@ also run one script directly, for example:
 ```bash
 python 06-black-holes-and-spacetime/code/verify_notebook.py
 ```
+
+## Use of Claude
+
+Claude was used in this work, including for citations, formatting and code execution.

@@ -37,7 +37,7 @@ pip install -r requirements.txt
 python tools/check.py
 ```
 
-`tools/check.py` confirms every question has an answer and runs every verification
+[`tools/check.py`](tools/check.py) confirms every question has an answer and runs every verification
 script. Add `--no-run` to skip the scripts, which take several minutes in total. You can
 also run one script directly, for example:
 
